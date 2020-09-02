@@ -26,4 +26,4 @@
       \__/
 
 Tilde Asterisk ~*
-ASII Art
+ASCII Art
