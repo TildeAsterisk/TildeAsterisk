@@ -1,6 +1,6 @@
 # Hello there. ~*
 
-# Cheat Sheet
+## Cheat Sheet
 
 __Update repositories and upgrade all packages__
 ```shell
