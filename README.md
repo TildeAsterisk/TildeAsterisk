@@ -1,6 +1,6 @@
-# Hello there. ~*
+# *The tilde and the asterisk.*
 
-## Cheat Sheet
+## ~* Cheat Sheet
 
 __Update repositories and upgrade all packages__
 ```shell
@@ -14,7 +14,7 @@ __To see upgradable packages__
 apt list –upgradable
 ```
 
-__Esketit__
+## ~* Esketit
 
        ________________
      |'-.--._ _________:
