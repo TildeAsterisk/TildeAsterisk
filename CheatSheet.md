@@ -1,14 +1,15 @@
-To navigate to a folder in another drive from the current directory:
+# Cheat Sheet
 
-` cd /<LETTER> <PATH> `
+__Update repositories and upgrade all packages__
+```shell
+sudo apt update
+sudo apt upgrade -y
+```
+The option `-y` automatically passes a Y when prompted [Y/n]
 
-*For example, to navigate to the `DiscordBot` folder in the `D:\` drive, use: ` cd /D D:\Creations V2\DiscordBot `.*
+__To see upgradable packages__
+```shell
+apt list –upgradable
+```
 
-\~\
-~\
-~\
-Links:\
-
-See markdown guide:
-https://www.markdownguide.org/basic-syntax/
-
+__Esketit__
