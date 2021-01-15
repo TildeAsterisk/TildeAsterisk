@@ -1,4 +1,4 @@
-# -This is my GitHub! ~*
+# Hello there. ~*
 
 # Cheat Sheet
 
