@@ -1,6 +1,6 @@
 # *The tilde and the asterisk.*
 
-## ~ Cheat Sheet
+## ~Cheat Sheet
 
 __Update repositories and upgrade all packages__
 ```shell
@@ -14,7 +14,7 @@ __To see upgradable packages__
 apt list –upgradable
 ```
 
-## ~ Esketit
+## ~Art Archive
 
        ________________
      |'-.--._ _________:
@@ -41,10 +41,19 @@ apt list –upgradable
      _/_\_            [ -'-.__
     <]   \>            \_____.>
       \__/
+      
+  *    .  *       .             *
+                         *
+ *   .        *       .       .       *
+   .     *
+           .     .  *        *
+       .                .        .
+.  *           *                     *
+                             .
+         *          .   *
 
-Tilde Asterisk ~*
-ASCII Art
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=nature/astronomy
 
-Stars with scrolling bg ascii
-
-https://asciiart.website/
