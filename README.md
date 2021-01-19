@@ -15,7 +15,7 @@ apt list –upgradable
 ```
 
 ## ~Art Archive
-
+```
        ________________
      |'-.--._ _________:
      |  /    |  __    __\
@@ -57,3 +57,4 @@ Thank you for visiting https://asciiart.website/
 This ASCII pic can be found at
 https://asciiart.website/index.php?art=nature/astronomy
 
+```
