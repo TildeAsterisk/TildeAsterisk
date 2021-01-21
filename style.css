@@ -36,8 +36,13 @@ div div div a{
 }
 
 #interface {
-    text-align: center;
+    position: fixed;
+    top:50%;
+    left: 50%;
 	margin: auto;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    /* transform: translate() is based off size of element */
 }
 
 #player {
