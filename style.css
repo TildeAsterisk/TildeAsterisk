@@ -1,3 +1,34 @@
+body{
+    background-color: black;
+    color: greenyellow;
+}
+
+/* this affects every element in the body and the body itself */
+body, body *{
+    font-family: "Courier New", monospace;
+}
+
+iframe{
+    border:none;
+}
+
+.module
+{
+	font-family:sans-serif;
+	text-align:center;
+
+	max-width: 250px;
+	min-width: 80px;
+
+	margin:10px;
+	padding:10px;
+	color: #fff;
+	background-color:#222;
+	border: solid 1px;
+	border-color: #555;
+	border-radius: 5px;
+}
+
 #interface {
     text-align: center;
 }
