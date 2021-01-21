@@ -8,8 +8,10 @@ body, body *{
     font-family: "Courier New", monospace;
 }
 
-iframe{
+#header {
     border:none;
+    margin: 0;
+    padding: 0;
 }
 
 .module
@@ -27,6 +29,10 @@ iframe{
 	border: solid 1px;
 	border-color: #555;
 	border-radius: 5px;
+}
+
+div div div a{
+    text-decoration: none;
 }
 
 #interface {
