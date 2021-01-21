@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color: greenyellow;
+}
+
+/* this affects every element in the body and the body itself */
+body, body *{
+    font-family: "Courier New", monospace;
+}
+
+#header {
+    border:none;
+    margin: 0;
+    padding: 0;
+}
+
+.module
+{
+	font-family:sans-serif;
+	text-align:center;
+
+	max-width: 250px;
+	min-width: 80px;
+
+	margin:10px;
+	padding:10px;
+	color: #fff;
+	background-color:#222;
+	border: solid 1px;
+	border-color: #555;
+	border-radius: 5px;
+}
+
+div div div a{
+    text-decoration: none;
+}
+
+#interface {
+    position: fixed;
+    top:50%;
+    left: 50%;
+	margin: auto;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    /* transform: translate() is based off size of element */
+}
+
+#player {
+    text-align: center;
+}
