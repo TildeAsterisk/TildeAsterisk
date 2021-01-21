@@ -68,16 +68,15 @@ a:hover
 	background-color:#333;
 }
 
-#content {
+#content
+{
+	background-image: url(http://ascii-patrol.com/bkg.png);
+    background-attachment: fixed;
+    background-position: center;
+    text-align: justify;
+    padding: 0; margin: 0;
+    width: 95%;
     position: absolute;
-    top:50%;
     left: 50%;
-	margin: auto;
-    text-align: center;
-    transform: translate(-50%, -50%);
-    /* transform: translate() is based off size of element */
-}
-
-#player {
-    text-align: center;
+    transform: translate(-50%)
 }
