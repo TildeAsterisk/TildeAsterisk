@@ -1,6 +1,6 @@
 var character = "o<br>~|~<br>/'\\";
 var bits = 0;
-var tdelay = 500;
+var tdelay = 1000;
 
 function addPlayer(){
         if(bits >= 8){
