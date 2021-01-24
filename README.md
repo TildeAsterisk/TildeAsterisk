@@ -12,8 +12,6 @@
 
 ~ 📫 How to reach me: TildeAsterisk@gmail.com
 
-~ 🔭 Website: http://www.tildeasterisk.com/
-
 <!--
 **TildeAsterisk/TildeAsterisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
