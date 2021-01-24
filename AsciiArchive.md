@@ -1,6 +1,4 @@
-# *The tilde and the asterisk.*
-
-## ~Art Archive
+## ~ASCII Art Archive
 ```
 
                                                                                                                                          
