@@ -42,7 +42,7 @@ body, body *{
 
 h1
 {
-	color:#aaa;
+	color:gold;
 	/*text-shadow: -1px -2px 2px #000;*/
 	text-align:left;
 
@@ -69,15 +69,33 @@ a:hover
 }
 
 #content {
-    position: absolute;
-    top:50%;
-    left: 50%;
 	margin: auto;
-    text-align: center;
+    padding: 10px 0 0 0;
+    width:80%;
+    /*
     transform: translate(-50%, -50%);
-    /* transform: translate() is based off size of element */
+    transform: translate() is based off size of element */
 }
 
 #player {
     text-align: center;
+}
+
+.article {
+    background-image: url(http://ascii-patrol.com/bkg.png);
+    background-attachment: fixed;
+    background-position: center;
+    text-align: justify-all;
+    padding:0;
+    margin-top:20px;
+}
+
+.article p{
+    padding:10px;
+    margin:0;
+}
+
+#cbframe{
+    padding:0;
+    margin:0;
 }
