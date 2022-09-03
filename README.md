@@ -1,9 +1,9 @@
 ** ~* ** is a ✨ _Tilde Asterisk_ ✨ welcome to my GitHub profile.
 =======
 ### Hi there 👋
-~* 🌐 Visit my website: https://www.tildeasterisk.com/
+- 🌐 Visit my website: https://www.tildeasterisk.com/
 
-~* 📫 How to reach me: TildeAsterisk@gmail.com
+~ 📫 How to reach me: TildeAsterisk@gmail.com
 
 Here are some topics:
 
