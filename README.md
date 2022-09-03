@@ -4,6 +4,7 @@
 - 🌐 Visit my website: https://www.tildeasterisk.com/
 - 📫 How to reach me: TildeAsterisk@gmail.com
 - 🔭 I’m currently working on ...
+- 💬 Ask me about: Active Ragdolls, Robot Operating System (ROS) and ASCII art projects.
 ```
 88888888888 d8b 888      888                      d8888          888                    d8b          888      
     888     Y8P 888      888                     d88888          888                    Y8P          888      
@@ -15,7 +16,6 @@
     888     888 888  "Y88888  "Y8888       d88P     888  88888P'  "Y888 "Y8888  888     888  88888P' 888  888 
 ```
 
-=======
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
