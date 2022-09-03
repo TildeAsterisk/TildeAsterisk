@@ -2,7 +2,9 @@
 =======
 ### Hi there 👋
 ~* 🌐 Visit my website: https://www.tildeasterisk.com/
+
 ~* 📫 How to reach me: TildeAsterisk@gmail.com
+
 Here are some topics:
 
 - 🔭 I’m currently working on ...
