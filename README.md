@@ -1,4 +1,4 @@
-** "~*" ** is a ✨ _Tilde Asterisk_ ✨ welcome to my GitHub profile.
+**Tilde Asterisk** is a ✨ _~*_ ✨ welcome to my GitHub profile.
 =======
 ### Hi there 👋
 - 🌐 Visit my website: https://www.tildeasterisk.com/
