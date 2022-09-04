@@ -15,7 +15,8 @@
     888     888 888 Y88b 888 Y8b.           d8888888888      X88 Y88b. Y8b.     888     888      X88 888 "88b 
     888     888 888  "Y88888  "Y8888       d88P     888  88888P'  "Y888 "Y8888  888     888  88888P' 888  888 
 ```
-
+<sub>⚡ Fun fact: In ancient Greece, the Greek engineer Ctesibius (c. 270 BC) "applied a knowledge of pneumatics and hydraulics to produce the first organ and water clocks with moving figures."
+</sub>
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
