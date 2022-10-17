@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on building Tilde Asterisk.
 
 
-- 🌐 See my HTML5 projects: https://tildeasterisk.github.io/
+- 🌐 See my HTML5 projects: https://tildeasterisk.github.io/web/index.html
 ```
 88888888888 d8b 888      888                      d8888          888                    d8b          888      
     888     Y8P 888      888                     d88888          888                    Y8P          888      
