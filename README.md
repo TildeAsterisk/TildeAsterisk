@@ -1,7 +1,7 @@
 **~*** is ✨ _Tilde Asterisk_ ✨ welcome to my GitHub profile.
 =======
 ### Hi there 👋
-- 🌐 Visit my website: https://www.tildeasterisk.com/
+- 🌐 Visit my website: http://www.tildeasterisk.com/
 - 📫 How to reach me: TildeAsterisk@gmail.com
 - 💬 Ask me about: Active Ragdolls, Robot Operating System (ROS) and ASCII art projects.
 - 🔭 I’m currently working on building Tilde Asterisk.
